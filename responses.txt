@@ -1,0 +1,3 @@
+hello|Hi there!
+how are you?|I'm good, thanks for asking.
+what's your name?|I'm a simple chatbot.
